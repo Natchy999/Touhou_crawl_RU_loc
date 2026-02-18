@@ -1,0 +1,21 @@
+﻿
+
+§yРазработчик & Проектировщик§d - §wjoy1999§d
+
+§ytitle.png§d - §wKa§d  
+§ytitle2.png§d - §w카나땅§d  
+§ytitle_3.png, title_4.png, title_5.png§d - §w어떤§d  
+§ytitle_6.png§d - §wnvdaklie§d
+
+§ySome Playable sprite work: Marisa & Mokou§d - §w빅껄룩§d
+§yИллюстрации: Seija & Tenshi§d - §wnvdaklie§d
+
+§yМузыка§d была взята с §chttp://hccweb6.bai.ne.jp/yomogi-farm/§d,  
+сайт, предлагающий бесплатную музыку.
+
+§bВсем, кто помогал тестировать Touhou Crawl§d  
+§bИ также всем, кто играл в Touhou Crawl§d
+
+§bОгромное вам спасибо.§d
+
+§bИзображения в начале для Touhou Crawl были созданы благодаря вкладу других игроков.§d

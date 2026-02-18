@@ -1,0 +1,273 @@
+MON_REIMUYUKKURI,Юккури Рейму,Существо, которое состоит только из головы. В последнее время их численность только растёт.\nВсё что оно говорит это "Yukkuri shiteitte ne!"
+MON_EVENT_REIMUYUKKURI,Юккури Рейму,
+MON_RAT,Крыса,Они есть везде и сами по себе довольно слабые.
+MON_FAIRY_GREEN,Фея, Озорная фея, которую часто можно видеть в группах.\nСила зависит от цвета феечки.
+MON_FAIRY_BLUE,Данмаку-фея,
+MON_FAIRY_RED,Лидер-фея,
+MON_MOOK,Мук,Слабый миньон в форме воздушного шарика.
+MON_EVENT_MOOK,Мук,
+MON_CROW,Ворона,Ворона, которая любит гнилое мясо и путешествовать в стае.
+MON_CRANE,Журавль,Существо, что существовало задолго до самого подземелья.\nЕго присутствие здесь остаётся загадкой.
+MON_SPIDER,Паук,Жуткий паук с восьмью ножками.
+MON_SNAKE,Змея,Ядовитая змея что скользит по подземелью.
+MON_KATPA,Каппа,Ёкай, живущий в Долине Гэмбу. Умело владеет своими руками и управляет водой.\nПрибегла к насилию после потери озера когда Генсокё стало подземельем.
+MON_TEST_KATPA,Каппа,
+MON_KATPA_GUN,Каппа-стрелок,Ёкай, живущий в Долине Гэмбу. Умело владеет своими руками и управляет водой.\nПрибегла к насилию после потери озера когда Генсокё стало подземельем.
+MON_FAIRY_GREEN_WARRIOR,Фея-воин,Озорная фея, чаще всего видна в группе из других фей.\nНосит шлем и кинжал, что она нашла на дороге. Не впечатляет, но лучше, чем ничего.
+MON_FAIRY_BLUE_MAGICIAN,Фея-маг,Озорная фея, чаще всего видна в группе из других фей.\nВзяла с собой небольшой посох, чтобы усилить свою магию.\nНикогда недооценивайте магию маленькой феи.
+MON_FAIRY_RED_COMMANDER,Фея-командир,Озорная фея, чаще всего видна в группе из других фей.\nНосит с собой подсолнух, найденный на ближайшем поле.\nЭтот аромат привлекает других фей.
+MON_RUMIA,Румия,Ёкай, что управляет тьмой. Всегда окружена этой же самой тьмой.\nИз-за тьмы, что она создаёт, она не может далеко видеть.
+MON_MISTIA,Мистия,Mystia is a night sparrow yokai whose song induces night-blindness.\nAttacks with swift movements and sharp claws.
+MON_WRIGGLE,Риггл,A bug yokai that commands insects. Summons swarms of bugs.
+MON_CIRNO,Чирно,Self-proclaimed strongest ice fairy. Has the ability to control cold.\nStrong for a fairy and shoots powerful cold blasts from afar. But she's a fool.
+MON_MEDICINE,Медисин,A discarded doll turned yokai, a type of tsukumogami. Uses deadly poison.\nThough newly awakened, her poison is extremely dangerous.\nOften uses the poison of lily-of-the-valley, which also slows victims.
+MON_DIEFAIRY,Дайёсей,A fairy stronger than most, hence the title. Her real name is unknown.
+MON_HUMAM_WOMAN,Человек,Беспомощный житель из деревни.
+MON_HUMAM_MAN,Человек,Житель деревни.\nПосле того, как Генсокё стало подземельем, они начали передвигаться в группе для защиты.
+MON_HUMAM_YINYANG,Оммёдзи,Экзорцист из деревни людей, который в прошлом изгонял ёкаев.\nСейчас же ходит в группах с другими людьми для своей защиты после того, как Генсокё стало подземельем.
+MON_HUMAM_PRIEST,Священник,Монах, обученный буддийским учениям. Использует священные тексты для изгнания ёкаев.\nХодит в группе других людей для защиты после того, как Генсокё стало подземельем.
+MON_HUMAM_SAMURI,Самурай,Воин, закованный в доспехи и вооружённый катаной.\nСейчас же путешествует в группе других людей, чтобы защитить себя после преобразования Генсокё в подземелье.
+MON_FIREFLY,Светлячок,Мистическое насекомое что излучает свет.
+MON_BUTTERFLY,Бабочка,Бабочка без каких-либо навыков борьбы.
+MON_GHOST,Призрак,Обычных призрак в Генсокё. Слабее, чем их истинная форма.
+MON_BAKEKASA,Каракаса-обаке,A tsukumogami born from a discarded umbrella.
+MON_GREEN_MOOK,Зелёный мук,Миньон в форме воздушного шарика. Зелёный цвет означает, что он ядовит.
+MON_ORANGE_MOOK,Оранжевый мук,A puffball-shaped minion. A lovely orange hue.
+MON_GRAY_MOOK,Серый мук,A puffball-shaped minion. A chic gray shade.
+MON_FROG,Лягушка,Огромная лягушка. Очевидно больше, чем обычно. На удивление опасна.
+MON_BLACK_CAT,Чёрная кошка,Чёрная кошка. К неудаче ли это?
+MON_ORANGE_CAT,Оранжевая кошка,Оранжевая кошка. Её шерсть выглядит прекрасно.
+MON_WHITE_CAT,Белая кошка,Белая кошка. Вполне достойно.
+MON_CROW_TENGU,Карасу-тэнгу,A crow tengu living in the Youkai Mountain. Handles journalism and controls wind.\nTengu tend to band together with other youkai from their mountain and reject outside forces.
+MON_ONI,Они,A boisterous oni who hates lies and loves alcohol.\nVery strong and highly aggressive.
+MON_KISUME,Кисуме,A bucket youkai hiding her body inside a pail. Falls from above to knock out targets.\nDespite her shy appearance, she's a man-eating youkai.
+MON_CHEN,Чэнь,A nekomata youkai born from a cat that lived a long life.\nAppears near Beast Paths and Youkai Mountain. Tames other cats with catnip.
+MON_KOGASA,Когаса,A kasa-obake born from a discarded umbrella.\nTakes pleasure in surprising humans. Recently, with fewer people getting scared, she's been struggling.\nWanders the dungeon in search of someone to surprise.
+MON_SUNNY,Санни,A cheerful fairy who controls sunlight. Leader of the Three Fairies of Light.\nCan refract and reflect light to become invisible.\nThe strongest among the three, but still a foolish and weak fairy.
+MON_LUNAR,Луна,A fairy who controls moonlight. Member of the Three Fairies of Light.\nCan silence sounds, preventing spellcasting and scroll usage.\nSaid to have a mouth like the night.
+MON_STAR,Стар,A fairy who controls starlight. Member of the Three Fairies of Light.\nHas the ability to detect presences. Quickly notices anything nearby.\nSurprisingly cunning. She's always the first to flee.
+MON_MARISAYUKKURI,Юккури Мариса,A creepy lifeform with only a head. Their numbers have been rapidly increasing.\nSeems to only say, "Take it easy!"
+MON_AYAYUKKURI,Юккури Ая,A creepy lifeform with only a head. Their numbers have been rapidly increasing.\nUnlike other sluggish yukkuris, this one is fast! Known for shaking its head and repeating itself.
+MON_REMILIAYUKKURI,Юккури Ремилия,A creepy lifeform with only a head. Their numbers have been rapidly increasing.\nA carnivorous yukkuri that flies to hunt prey. Rumored to be filled with meat inside.
+MON_ALICEYUKKURI,Юккури Алиса,A creepy lifeform with only a head. Their numbers have been rapidly increasing.\nA chic, urban-style yukkuri.
+MON_YOUMUYUKKURI,Юккури Ёму,A creepy lifeform with only a head. Their numbers have been rapidly increasing.\nMyon!
+MON_YAMABIKO,Yamabiko,A youkai of echoes that replies when voices are heard in the mountains.\nResembles a mix of dog and monkey.
+MON_KATPA_SPEAR,Kappa Spearman,A youkai from Genbu Ravine with skillful hands and the ability to manipulate water.\nOnce peaceful river dwellers, they've grown aggressive since the rivers vanished after the dungeon shift.\nThis kappa skillfully wields a spear, allowing it to attack enemies from 2 tiles away.
+MON_KATPA_WATER_WIZARD,Kappa Water Mage,A youkai from Genbu Ravine with skillful hands and the ability to manipulate water.\nOnce peaceful river dwellers, they've grown aggressive since the rivers vanished after the dungeon shift.\nSeems to have exceptional control over water.
+MON_YAMABUSH_TENGU,Yamabushi Tengu,A crow tengu from Youkai Mountain. Works in printing.
+MON_HANATACA_TENGU,Hanataka Tengu,A crow tengu from Youkai Mountain. Works in clerical tasks.\nKnown for a red face and a long nose.
+MON_BLUE_ONI,Синяя они,A boisterous oni who hates lies and loves alcohol.\nVery strong and highly aggressive.
+MON_MUSHROOM,Mushroom Youkai,A walking mushroom youkai.\nUses poison attacks at close range. When hit, it bursts spores that release toxic clouds.
+MON_KYOUKO,Кёко,Kasodani Kyoko, a yamabiko youkai that echoes voices.\nRecently joined Buddhism after hearing the rumor that echoes are just physical sound reflections.\nGreets you with a deafening shout. Your eardrums may burst.
+MON_FORTUNE_TELLER,Fortune Teller,Originally a human, now turned into a youkai through sorcery.\nLiving with all their might to avoid being exterminated again.
+MON_WOLF_TENGU,Хакуро-тэнгу,A white wolf tengu from Youkai Mountain. Serves as a guard.
+MON_MOMIZI,Момидзи,A white wolf tengu who works as a guard.\nUsually idle, so she plays shogi while resting.
+MON_AYA,Ая,A crow tengu from Youkai Mountain, Shameimaru Aya.\nAlso a reporter for the Bunbunmaru Newspaper, she roams around gathering scoops.
+MON_WAKASAGI,Вакасагихиме,A mermaid living in Misty Lake.\nShe becomes powerless outside of water.
+MON_YAMAME,Ямаме,A tsuchigumo who controls disease. Attacks with illness and poison.\nJust encountering her might make you sick!
+MON_NAZRIN,Назрин,A mouse youkai who serves Bishamonten directly.\nSkilled at finding things and summons pendulums to bolster her defense.
+MON_DAUZING,Pendulum,A flying pendulum. Has no offensive abilities but protects summoned allies.
+MON_YOSIKA,Ёсика,A walking corpse. Seems to be controlled by someone.\nHard to defeat due to regeneration unless her master is taken down.
+MON_SEKIBANKI,Секибанки,A rokurokubi youkai who can launch her head into the air.\nSaid to be proud and arrogant.
+MON_SEKIBANKI_HEAD,Секибанки,The head of the rokurokubi youkai, separated and flying.\nPerforms powerful attacks, so it's best to aim for the body first.
+MON_SEKIBANKI_BODY,Секибанки,The body of the rokurokubi youkai, left after the head detaches.\nSeems unable to move in this state.
+MON_NITORI,Нитори,A kappa living in Genbu Ravine. Lives in a group.\nSkilled with machines and water manipulation.\nInvented optical camouflage to become partially invisible and attacks with various gadgets.
+MON_KEGERO,Кагеро,A werewolf of Gensokyo. Transforms under the full moon.\nLives in the Bamboo Forest of the Lost and remains calm even when transformed.\nLeaps quickly to close in and attack like a wolf.
+MON_PARSI,Парси,A youkai of jealousy. Envious of everyone she sees.\nServes as the gatekeeper to the underground.\nMight envy your faith too.
+MON_BENBEN,Бенбен,A biwa that turned into a tsukumogami youkai.\nTravels with her younger sister Yatsuhashi.
+MON_YATHASI,Яцухаси,A koto that turned into a tsukumogami youkai.\nTravels with her older sister Benben.
+MON_ORIN,Орин,Manages spirits in the Blazing Hell.\nA cat wheel-cart youkai who collects corpses.\nSometimes transforms into a cat. Many spirits float around her.
+MON_ORIN_CAT,Орин,Manages spirits in the Blazing Hell.\nIn her cat form, she moves swiftly, causing annoyance and bullet hell.
+MON_ZOMBIE_FAIRY,Zombie Fairy,A fairy dressed like a zombie.\nApparently, it's just pretending to be a zombie.
+MON_ICHIRIN,Ичирин,A youkai who was once human. Became a youkai after defeating a nyuudou, and now controls one.\nShe always travels with her nyuudou, using its strength.
+MON_UNZAN,Ундзан,The nyuudou that travels with Ichirin.\nHis massive fists are his trademark.
+MON_UNZAN_PUNCH,Кулак Ундзана,The giant fist of Unzan.\nIt looks like it would really hurt to get hit by it.
+MON_PACHU,Пачули,A magician residing in the Scarlet Devil Mansion’s library.\nShe dislikes disturbances in the library and attacks intruders.
+MON_MAGIC_BOOK,Магическая книга,A flying book animated by magic, attacking enemies.\nThe magic it uses is written inside its pages.\nIf defeated and dropped, you might be able to learn the magic it used.
+MON_HOBGOBRIN,Hobgoblin,Recently hired at the Scarlet Devil Mansion. A housemaid fairy with a frightening appearance.\nThough weak-looking, it was once the most dangerous monster,\ninfamous for its club and high player kill rate against dungeon beginners.\nWelcome to Gensokyo!
+MON_HOBGOBRIN_MAID,Hobgoblin Maid,Recently hired at the Scarlet Devil Mansion. A housemaid fairy with a frightening appearance.\nNow dressed in maid uniform appropriate for the mansion, helping with cleaning.\nHer long mop handle poses a deadly threat to players.
+MON_HOBGOBRIN_LIBRARIAN,Hobgoblin Librarian,Recently hired at the Scarlet Devil Mansion. A housemaid fairy with a frightening appearance.\nHired as a librarian to manage the vast collection of books, she is particularly skilled in poison magic.\nThough not an expert, her magic is more than enough to eliminate clueless intruders.
+MON_HOBGOBRIN_TEMP,Hobgoblin Warlock,Recently hired at the Scarlet Devil Mansion. A housemaid fairy with a frightening appearance.\nShe succeeded in opening a portal connecting Gensokyo and Makai through steady research.\nNow a master summoner of demons. Rumor says she’s actually running a demon tourism company.
+MON_MAID_FAIRY,Maid Fairy,A fairy working in the Scarlet Devil Mansion. Not particularly helpful.\nOther than the maid outfit, she seems no different from the fairies on the street.
+MON_CHUPARCABRA,Чупакабра,A newly raised pet in the Scarlet Devil Mansion.\nDrinks the blood of its victims. Will the owner be angry if you kill it?
+MON_KOAKUMA,Little Devil,A weak demon known simply as “Little Devil.” Her real name remains unknown.
+MON_MEIRIN,Хун Мейлин,The gatekeeper of the Scarlet Devil Mansion.\nConfident in her martial arts skills, so close-range combat may be a bad idea.\nShe is occasionally seen sleeping at the mansion’s entrance.
+MON_SAKUYA,Сакуя,The perfect and elegant head maid of the Scarlet Devil Mansion.\nManipulates time and space, showing strange movements. Knives are her main weapon.\nIt’s not easy to land a hit on someone who can stop time.
+MON_REMILIA,Ремилия,The vampire mistress of the Scarlet Devil Mansion.\nFull of charisma, she appears to be hiding something important in this dungeon.\nDefeat or evade her to claim it!
+MON_EAGLE,Giant Eagle,A massive eagle.\nIts beak and talons are truly threatening.
+MON_TIGER,Tiger,A tiger living in Gensokyo.\nGetting bitten would hurt.
+MON_RAIJUU,Raijuu,A thunder beast that looks like a small mouse. Cute, but dangerous.\nEmits powerful electricity and is laced with poison.
+MON_DRAGON_BABY,Baby Dragon,A young dragon, which is rare even in Gensokyo.\nUnderestimating it just because it's a baby will get you burned.
+MON_KASEN,Касэн,A hermit living in Gensokyo. There’s a public rumor that she might actually be an oni.\nIf you mess up, she’ll lecture you. She commands various animals and spirits.
+MON_YAMAWARO_NINJA,Yamawaro Thrower,Originally kappa who moved to the mountains after their hideout was ruined.\nThey seem to be in the middle of a survival game.\nThey throw shuriken from afar, and capturing one earns 10 points.
+MON_YAMAWARO_WAWRRIOR,Yamawaro Warrior,Originally kappa who moved to the mountains after their hideout was ruined.\nThey seem to be in the middle of a survival game.\nAggressive by nature, they charge with swords in hand.
+MON_YAMAWARO_FLAG,Yamawaro Flag Bearer,Originally kappa who moved to the mountains after their hideout was ruined.\nThey seem to be in the middle of a survival game.\nToo timid to fight directly, so they carry the flag instead.\nThey boost their allies' morale and seem to give high points when caught.
+MON_ONBASIRA,Onbashira,A pillar materialized by Kanako's divine power.\nFirmly rooted to block movement. Its ranged attacks pierce through both friends and foes.\nStaying near it while trusting Kanako grants a combat bonus.
+MON_RED_UFO,Red Ventora,An unidentified flying object. Flies around with a loud noise.\nChanges color noisily, and its resistance and attack element seem to change with it — fire, electric, or cold.\nIt was probably something else, transformed by someone's mysterious power.
+MON_GREEN_UFO,Green Ventora
+MON_BLUE_UFO,Blue Ventora
+MON_KOISHI,Койси,Koishi, who controls the subconscious. It's hard to perceive her as she moves unconsciously.\nShe’s right behind you!
+MON_NUE,Нуэ,A user of mysterious, undefined powers.\nShe travels with things that have been turned into Ventora by her abilities.
+MON_SANPEI_FIGHTER,Sanpei Fighter,A pressure-powered flying machine built by the kappa. Surprisingly sturdy.\nFlies at high speed, shredding targets with a drill mounted on the front.
+MON_VAMPIER_BAT,Vampire Bat,A bat living in the Scarlet Devil Mansion. Empowered by its master, it's far stronger than normal bats.\nIt flies at incredible speed, attacking intruders nearby.
+MON_DEAGAMA,Giant Toad,A massive toad youkai living in Misty Lake. Enormously huge.\nIt uses its long tongue to pull in targets. It seems to eat naughty fairies.
+MON_RABBIT,Rabbit,A rabbit wandering along the road. More aggressive than it looks.
+MON_YOKAI_RABBIT,Youkai Rabbit,A rabbit that became a youkai over time. Loves playing pranks like fairies.
+MON_NAMAZ,Namazu,A giant catfish. Namazu is a mythical catfish that causes earthquakes.\nIts massive movements cause quakes. It also seems to emit electricity.
+MON_HELL_CROW,Hell Crow,A crow living near the Blazing Hell. A youkai-fied crow that feeds on spirits and corpses.\nApparently has an owner who raised it.
+MON_RACCON,Disguising Tanuki,A tanuki youkai that loves transforming into others.\nIf something’s nearby, it may transform into it.
+MON_LANTERN_YOUKAI,Lantern Youkai,A tsukumogami youkai in the shape of a lantern.\nIt breathes fire, turning the area into a sea of flames.
+MON_YINYAN,Сфера Инь-Ян,A yin-yang orb imbued with powerful energy. It was once a target for many youkai.
+MON_YUUGENMAGAN,Yuugenmagan,A demonic creature from Makai composed of five eyes. Its form is eerie.\nUnleashes terrifying electric attacks on its foes.
+MON_ELIS,Элис,A demon living in Makai. She has bat-like wings.\nFast and uses vampiric attacks.
+MON_SARIEL,Сариил,A fallen angel residing in Makai. Possesses large wings.\n
+MON_SARA,Сара,The gatekeeper of Makai. Spins around while firing danmaku.\nPerforms powerful melee attacks imbued with fire.
+MON_LUIZE,Луиза,Lives in Makai. Loves to travel and occasionally visits the human world for fun.\nCasts powerful cold spells from a distance.
+MON_YUKI,Юки,Resides in the frozen realm of Makai. Wields powerful fire attacks.\nExtreme cold may be no different from a burn.
+MON_MAI,Май,Resides in the frozen realm of Makai. Wields powerful cold attacks.\nSeems foul-mouthed and mean when alone.
+MON_YUMEKO,Юмеко,Shinki’s direct maid. One of the most powerful demons.\nFights by throwing large knives (or are they swords?) like a demon maid.
+MON_MAGICAL_STAR,Вариант,A floating option that orbits around the user. Automatically intercepts nearby enemies.\nIts design is peculiar, but some call it a lucky charm.
+MON_GOLEM,Голем,A golem created by magic.\nIts size and strength depend on the user's magical power.
+MON_EVIL_EYE,Злой глаз,A bizarre lifeform shaped like a giant eyeball.\nSaid to shoot electricity from its eye.
+MON_LITTLE_IMP,Demonic Minion,A weak minion that lives in Makai.\nThey are feeble but swarm in overwhelming numbers.
+MON_ENSLAVE_GHOST,Призрак,A soul bound by Yuyuko’s power.\nOnly one can be brought along as an ally.
+MON_SCHEMA_EYE,Eye That Sees Alteration,A chilling eye peering through a gap.\nIt cannot move but receives Yukari’s support fire.\nIts low HP is a drawback.
+MON_FLAN,Фландр,Remilia’s younger sister who lives in the Scarlet Devil Mansion.\nAn ominous aura surrounds her. It might be best to avoid direct confrontation.
+MON_FLAN_BUNSIN,Клон Фландр,A clone summoned by Flandre.\nWeaker than the original, but still packs serious power.
+MON_RABIT_BOMB,Rabbit Kamikaze,A rabbit strapped with a bomb.\nDelivers devastating self-destruct attacks when approached.
+MON_RABIT_SPEAR,Rabbit Spearman,A rabbit armed with a bamboo spear.\nWhether human or youkai, a hit from that spear is fatal.
+MON_RABIT_SUPPORT,Rabbit Supporter,A rabbit carrying a huge horn.\nBlows the horn to gather nearby rabbits.
+MON_RABIT_MAGIC,Rabbit Mage,A rabbit that uses magic.\nWhere did it even learn magic from?
+MON_TEWI,Теви,A white rabbit living in the Bamboo Forest. Said to bring good luck.\nMeeting her might help you find your way in the forest.\nWith a loud shout, she gathers nearby rabbits — even more than a support unit.\nNot strong herself, but if ignored, the number of rabbits could grow immensely.
+MON_CLOWNPIECE,Клаунпис,A hell fairy holding a torch.\nJust looking at her might drive you mad.
+MON_DOREMI,Дореми,The dream-keeper who consumes dreams.\nUsually resides in the dream world. Leads you into the land of dreams.\nSummons dangerous illusions from various locations.
+MON_FAIRY_HERO,Fairy Hero,A playful fairy who loves mischief, often seen in groups.\nA master swordswoman among fairies — underestimating her could be fatal.
+MON_FAIRY_SOCERER,Fairy Spiritcaster,A playful fairy who loves mischief, often seen in groups.\nA fairy who has grasped the truth of all things. Her magic transcends the limits of her kind.
+MON_FAIRY_SUN_FLOWER,Sunflower Fairy,A playful fairy who loves mischief, often seen in groups.\nA cute fairy holding a sunflower, commanding other fairies.\nHer large sunflower gathers others, making her the leader of the fairies.
+MON_MOON_RABIT_SUPPORT,Moon Rabbit Supporter,A moon rabbit handling various chores on the Moon.\nActs as an informant. Specializes in communication and intel, not direct combat.
+MON_MOON_RABIT_ATTACK,Moon Rabbit Scout,A moon rabbit handling various chores on the Moon.\nAssigned to scouting and reconnaissance, taking on the riskiest missions.
+MON_MOON_RABIT_ELITE,Moon Rabbit Elite,A moon rabbit handling various chores on the Moon.\nAn elite among the usually unorganized moon rabbits, guarding the Lunar Capital.\nRapidly calls allies. Since they aren't summons, defeating the original won’t stop them.
+MON_MAC,Mac,A dream-eating youkai.\nLooks like an anteater. Quite formidable in the dream world.\nSummons dangerous illusions from various places.
+MON_NIGHTMARE,Nightmare Fragment,A being formed of nightmares.\nAbsorbs spiritual energy and spreads fear and destruction.
+MON_LUNATIC,Fragment of Madness,A being formed of concentrated madness.\nDrives its foes insane. Madness builds up and makes normal behavior impossible.\nIf you just want to break things, being mad might actually help.
+MON_HAUNT,Wraith,A vengeful spirit formed from hatred.\nFar more threatening than a typical ghost.
+MON_FIRE_CAR,Fire Cart,A cart from the Underworld said to carry corpses.\nIts wheels emit flames — getting too close might burn you.
+MON_HELL_SPIDER,Tsuchigumo,A spider youkai known as a Tsuchigumo.\nIts bite causes severe poison and illness. It also pollutes rivers.
+MON_BLOOD_HAUNT,Bloodstained Wraith,A wraith tainted by the bloody pond of the Underworld.\nIts blood curse drains HP and cannot be blocked by armor or agility.
+MON_HELL_HOUND,Hell Hound,A dog from the Underworld. Possibly not your average mutt.\nHowls to summon allied hounds. Ignoring it may lead to overwhelming numbers.
+MON_DESIRE,Spirit,A manifestation of concentrated desire. Resembles human cravings.\nColor determines its type and attribute: red = fire, blue = ice, green = electricity.\nAttacks with corresponding element. Being hit reduces resistance to that element for a short time.
+MON_FLOWER_TANK,Flower Tank,A tank made by someone unknown.\nFires a fairly powerful cannon.
+MON_EVIL_EYE_TANK,Evil Eye Tank,A tank seemingly modeled after something from Makai.\nIts goofy appearance hides terrifying power.
+MON_SNOW_GIRL,Snow Girl,A yuki-onna who can control snow.\nJust getting close is enough to feel the chill.
+MON_LETTY,Летти,A yuki-onna who can control snow.\nFar stronger than an ice fairy, though people around her don’t seem to think so.
+MON_YORIHIME,Ёрихиме,The younger of the Watatsuki sisters from the Moon.\nCan invoke divine power by channeling gods through her body.\nHer sword is wreathed in flame and lightning — you’ll need resistance to both.
+MON_TOYOHIME,Тоёхиме,The elder of the Watatsuki sisters from the Moon.\nHas the power to connect the sea and mountains.\nWields a lunar fan capable of disassembling enemies at a subatomic level.
+MON_UTSUHO,Уцухо,A hell raven from the Underworld who received the power of Yatagarasu.\nNow wields nuclear energy, a divine force.\nUnfortunately, her intelligence still matches that of a bird.
+MON_SUIKA,Суйка,An oni who clings to the shrine and is always drunk.\nSmall like Shuten-douji but unbelievably strong.\nCan freely shrink or enlarge herself by controlling density.
+MON_REIMU,Рейму,The famous Hakurei shrine maiden.\nShe's flown here chasing you for stealing the Yin-Yang Orb.\nEven if you defeat her, she’ll return stronger unless you escape the dungeon.\nYour adventure ends only when you successfully elude her.
+MON_ALICE,Алиса,The seven-colored puppeteer from the Forest of Magic.\nFights using dolls and a tactical mind.\nDoesn’t seem to be going all-out.
+MON_SEIRAN,Сэйран,A moon rabbit scout from the Eagle Ravi unit.\nSeems burdened with all the dirty work and holds some resentment.
+MON_RINGO,Ринго,A moon rabbit from the Eagle Ravi unit specializing in intel.\nHas a cushy information-gathering role. Grows stronger the more dango she eats.
+MON_UDONGE,Рейсен,A deserter moon rabbit who fled to Earth.\nWields the power of lunacy and is one of the more capable among her kind.\nNow lives at Eientei on the surface.
+MON_KAGUYA,Кагуя,A princess exiled from the Moon for taking the Hourai Elixir.\nCan manipulate eternity and the instantaneous.
+MON_MOKOU,Моко,A human who drank the Hourai Elixir and became immortal.\nShe lives on, unable to die even if she wishes.\nNow finds purpose in battling her eternal rival, Kaguya.
+MON_NESI,Nesi,A kappas' artificial creature based on an urban legend.\nCreated by kappas who don’t believe in the legend, yet it became haunted.\nFires massive water cannons, but cannot leave the water.
+MON_SANGHAI,Shanghai Doll,Bakaja-né no?
+MON_HOURAI,Hourai Doll,One of Alice’s dolls, the Hourai type.\nUses a shield to protect its master while firing long-range lasers.
+MON_FAKE_SANGHAI,Fake Shanghai Doll,Looks like a Shanghai doll at first glance, but something’s off.
+MON_FAKE_HOURAI,Fake Hourai Doll,Looks like a Hourai doll at first glance, but something’s off.
+MON_TOKIKO,Book-Reading Youkai,A youkai girl holding a very difficult book. Let's call her Tokiko.\nSeems furious that her reading was interrupted.\nDefeating her might let you take the book she’s holding.
+MON_TOZIKO,Тодзико,A spirit who failed resurrection via shamanic means. But she seems to enjoy her ghostly lifestyle.\nMainly uses electricity to shock annoying intruders.
+MON_FUTO,Футо,A self-proclaimed shikaisen who has mastered geomancy. Arson is her hobby.\nShe absorbs the opponent’s fortune and causes misfortune.\nIf you observe her fortune too long, you might end up cursed enough to have UFOs fall from the sky.
+MON_MAMIZO,Мамидзо,A bake-danuki known for her shapeshifting ability. Having lived a long life, her youkai powers are immense.\nShe uses her subordinate tanuki to perform a variety of summoning tricks. If attacked directly, she transforms and escapes.
+MON_SEIGA,Сейга,A hermit with a twisted personality. Though a hermit, she has an evil nature.\nShe does anything for amusement, and her current target appears to be you.\nWhether you’ll die and become a jiangshi, or be used for magical experiments... only she knows.
+MON_CLOSE_DOOR,Locked Door,A door tightly sealed by divine power.\nIts mysterious appearance alerts enemies that this is no ordinary door, and they try to destroy it.\nOnce enough time passes, it will return to being just a regular door.
+MON_MURASA,Мураса,A ghostly ship captain youkai who can sink ships.\nShe’ll stop at nothing to try and sink you.\nAttacks with powerful cold energy and a heavy-looking anchor.
+MON_KEINE,Кейне,A half-beast youkai who transforms into a white beast under the full moon.\nUsually calm and attempts to keep her distance in battle,\nbut if her health drops too low, she’ll transform regardless of the moon and launch devastating attacks.
+MON_KEINE2,White Beast Keine,A transformed version of Keine due to the full moon’s influence.\nNormally, she wouldn’t transform without the full moon, but the dungeon’s influence triggers it in crises.\nShe becomes much faster, and her horn can cause severe wounds.
+MON_YOUMU,Ёму,A half-human, half-phantom gardener who guards Hakugyokurou.\nHer incredible speed allows her to quickly close the gap and slash enemies before they can react.
+MON_LYRICA,Лирика,Lyrica Prismriver, the youngest of the Prismriver sisters.\nHandles percussion in the band and can play the keyboard without touching it.\nThough her keyboard doesn’t affect emotions directly, her skillful play allows her to fight more aggressively than her sisters.
+MON_MERLIN,Мерлин,Merlin Prismriver, the middle sister of the Prismriver sisters.\nHandles wind instruments and can play her trumpet hands-free.\nIts sounds resonate through the brain, making listeners feel exhilarated.
+MON_LUNASA,Лунаса,Lunasa Prismriver, the eldest of the Prismriver sisters.\nHandles string instruments and plays the violin without touching it.\nHer music calms people and, over time, can plunge their emotions into depression.
+MON_KOMACHI,Комачи,Komachi Onozuka, the ferryman of the Sanzu River. Often slacks off and goes out.\nThough slow and laid-back, she manipulates distance in combat where speed doesn't matter.
+MON_IKU,Ику,Iku Nagae, messenger of the Dragon Palace. Usually swims gracefully through the sky.\nWhen angered, she unleashes electricity from her whole body to electrocute enemies.
+MON_LARVA,Ларва,A butterfly fairy with butterfly wings on her back (or perhaps an insect?).\nSpreads foul powder that causes poison or confusion. Best to attack from afar or have poison resistance.
+MON_NEMUNO,Немуно,A solitary youkai living in the mountains who refuses to join the yamabiko group.\nLives primitively and avoids all contact with others.\nHer reclusive nature manifests as a sanctuary that repels intruders.\nDefeating her may reveal the secret to creating such sanctuaries.
+MON_AUNN,Аун,A komainu who guards shrines. Tends to settle near temples and protect them on her own.\nOften appears near altars and guards them without permission.\nNot very strong offensively, but tougher than expected with high resistances.
+MON_NARUMI,Наруми,A sorcerer born from the magical awakening of a ground Buddha statue in the Forest of Magic.\nLike a golem, she's extremely durable despite having low HP.
+MON_MAI2,Май,Mai, a loyal subordinate of Okina Matara. Enhances nearby allies by dancing.\nShe doesn’t fight directly but heals nearby allies with her dance.\nSaid to be cautious but slightly overconfident.
+MON_SATONO,Сатоно,Satono, a loyal subordinate of Okina Matara. Enhances nearby allies by dancing.\nShe doesn’t fight directly but restores spirit energy through her dance.\nSaid to be frivolous but action-oriented.
+MON_KOKORO,Кокоро,A tsukumogami youkai born from aged masks.\nThough expressionless, she holds various masks that display different emotions.\nShe switches masks mid-battle to change her tactics.\nEach mask alters her spells and resistances — be careful!
+MON_KOKORO1,Кокоро
+MON_KOKORO2,Кокоро
+MON_KOKORO3,Кокоро
+MON_SUMIREKO,Сумиреко,Usami Sumireko, founder of the Secret Sealing Club with psychic powers.\nAlthough she’s not originally from Gensokyo, she can enter it through dreams.\nHere, she’ll use her psychic powers to try and bury you in a pile of trash!
+MON_ANCHOR,Anchor,A firmly planted anchor in the ground. Just standing next to it seals your movements with a mysterious force.\nYou’ll need to destroy or remove it to escape its effect.
+MON_MASK_ANGRY,Маска ярости,A mask wielded by Kokoro, depicting an angry oni’s face and radiating fiery energy.\nKokoro appears to be drawing power from it.\nDepending on the situation, it might be possible to destroy the mask first.
+MON_MASK_SAD,Маска печали,A mask wielded by Kokoro, depicting a sorrowful elder and emanating a chilling aura.\nKokoro appears to be drawing power from it.\nDepending on the situation, it might be possible to destroy the mask first.
+MON_MASK_HAPPY,Маска радости,A mask wielded by Kokoro, shaped like a joyful woman and giving off a tingling emotion.\nKokoro appears to be drawing power from it.\nDepending on the situation, it might be possible to destroy the mask first.
+MON_TRASH,Trash Pile,A floating pile of garbage manipulated by telekinesis. It gets in the way.\nClearing it out might take a good amount of time.
+MON_OCCULT_LONG,Eight-foot Ghost,A tall female ghost about eight shaku (roughly 2.5 meters) tall.\nOnce a mere urban legend, it has been made real through occult power.\nIt approaches slowly, muttering "po po po po" sounds. Its large frame is tough, and its attacks are heavy.
+MON_OCCULT_DISK,Banchou-Sarayashiki,A ghost that counts plates and always finds one missing.\nOnce an urban legend, it now exists due to occult power.\nNot very strong in close combat, but it supports from afar by throwing plates.
+MON_OCCULT_SMALL,Little Green Men,Tiny green beings called forest spirits. Once an urban legend, they now exist due to occult power.\nIndividually weak, but they swarm in groups and attack quickly.
+MON_KUNEKUNE,KuneKune,An incomprehensible lifeform from an urban legend that drives people mad if they try to understand it.\nNow made real through occult power.\nIt simply wriggles in place, but constantly confuses nearby enemies.
+MON_KANAME,Keystone,A remote-controlled keystone created by Tenshi’s power.\nIt floats in place and fires danmaku at enemies. The power of the shots differs per keystone.\nThe keystone cannot move or attack at melee range, so fighting it up close is ideal.
+MON_SHEEP,Dreaming Sheep,A sheep living in the dream world.\nIt seems like a normal sheep, but every time it attacks, irresistible drowsiness sets in.\nOnce enough drowsiness builds up, you’ll fall asleep and become defenseless.\nYou’ll wake up if attacked, but the sheep will continue feeding on dreams while you sleep.
+MON_BEE,Пчела,A bee with a sharp, painful sting.
+MON_BUSH,Bush,Just an ordinary patch of grass. It hinders movement but seems removable with attacks.
+MON_SION,Сион,Shion the Poverty Goddess in a state of possession.\nWhoever she possesses becomes plagued with extreme misfortune, unable to fight properly.\nHow could a player possibly fight while being possessed by a god like this?
+MON_CURSE_DOLL,Cursed Doll,A cursed doll — a type of tsukumogami.\nSome are said to grow hair or move when unobserved.\nThough not strong, its emotionless expression gives off an eerie vibe.
+MON_DANCING_WEAPON,Dancing Weapon,A weapon that gained life as a tsukumogami.\nIt was once just a tool, but now seeks to rebel.\nIt’s not yet powerful enough to take human form.
+MON_DANCING_ARMOUR,Dancing Armor,A tsukumogami born from an old suit of armor.\nIt seems to have gained power and is now attempting a rebellion.\nIt's still too weak to take on a human form.
+MON_ELEC_BALL,Electric Orb,A ball of concentrated electricity.\nIt’s harmless at first, but once fully charged, it releases a massive electric shock to all nearby enemies.\nDestroy it before it finishes charging, or escape beyond its range to stay safe.
+MON_HATATE,Hatate,A crow tengu who writes newspaper articles from home by reading spiritual impressions.
+MON_BOMB,Магическая бомба,Бомба, зажжённая магией. Очень скоро произойдёт большой взрыв!
+MON_DOREKING,Doreking,The true(?) form of Doremi, the dream world's overseer.\nLegend says none who see it survive.
+MON_CURIOSITY,Curiosity,A mechanical spider-like lunar exploration robot.\nIt's said that where it passes, no grass grows, and everything is purified.
+MON_KAGUYA_QUIZ_0,Orb of the Dragon’s Neck,One of Kaguya’s impossible requests. A multicolored orb near a dragon’s reverse scale.\nAlso called the “wish-granting jewel,” it’s said to be impossible to obtain without provoking the dragon.\nThis radiant orb emits crackling lightning.
+MON_KAGUYA_QUIZ_1,Buddha’s Stone Bowl,One of Kaguya’s impossible requests. A stone rice bowl said to have been used by the Buddha.\nUnlike fakes, the real one is said to shine brightly.\nThis stone bowl delivers powerful strikes that ignore your defense.
+MON_KAGUYA_QUIZ_2,Robe of the Fire Rat,One of Kaguya’s impossible requests. A robe made from the fireproof pelt of a mythical rat.\nSaid to be completely immune to fire damage.\nThis robe emits waves of flame.
+MON_KAGUYA_QUIZ_3,Swallow’s Cowrie Shell,One of Kaguya’s impossible requests. A round, glossy shell said to be laid by a swallow.\nIt symbolizes safe childbirth.\nThis shell emanates a chilling cold aura.
+MON_KAGUYA_QUIZ_4,Jeweled Branch of Hourai,One of Kaguya’s impossible requests. A branch made of gold, silver, and jade.\nSaid to grow on Mount Hourai, with silver roots, gold leaves and stems, and jade fruits.\nUpon closer inspection, danmaku is embedded in its branches.
+MON_MISYAGUZI,Mishaguji,A fearsome deity commanded by Suwako, shaped like a white snake.\nMishaguji’s fangs curse those bitten with irresistible slowing and poison.
+MON_EIKA,Эйка,The idol of Mizuko's ghost clan, hosting a stone-stacking contest.\nShe lives alone in the dungeon, building stone towers.\nApparently, someone has been knocking them over, and she’s looking for the culprit.
+MON_STONETOWER,Stone Tower,A carefully stacked pile of stones by someone.\nBreaking it might anger whoever built it.
+MON_URUMI,Уруми,An oni who entrusts children to nearby people, makes them heavy, and throws them into the Sanzu River.\nLately, she’s been raising a giant fish and seeking sacrifices to feed it.
+MON_KUTAKA,Кутака,A wild chicken deity who also guards the gates of the Netherworld.\nSeems to be testing your skills in person.\nRumor has it that being a bird, she’s not particularly smart.
+MON_YACHIE,Ятиэ,Leader of the Kiketsu Family, a major organization in the Animal Realm.\nShe wears a turtle shell and has a dragon’s tail.\nHer polite speech carries an overwhelming pressure that makes it hard to argue back.
+MON_MAYUMI,Маюми,The commander of the haniwa army created by Keiki.\nShe always travels with a large haniwa force, waging war.
+MON_SAKI,Саки,A kurokomas who leader of the Keiga Family, a major organization in the Animal Realm.\nA horse with large wings, said to be once ridden by a shrine maiden.\nShe may be simple-minded, but her brute strength is no joke. Don’t get kicked!
+MON_YUMA,Юма,A taotie who who is the leader of the Gouyoku Alliance.\nShe guards the Blood Pool Hell with her giant spork.\nShe can devour anything, attacking enemies or consuming items at her feet to recover health.\nDon’t drop important items near her!
+MON_YUMA2,Юма,Driven mad by hunger, she has entered a starvation state.\nNow half-merged with Blood Pool Hell, she pulls in everything in sight.\nItems, enemies, allies—she attacks and absorbs everything in all 8 directions around her.\nThis state lasts until she fully recovers HP! End it quickly!
+MON_ENOKO,Эноко,A mountain dog cursed with immortality.\nShe has a giant bear trap on her hand. Getting caught in it will likely paralyze you.
+MON_CHIYARI,Тияри,A hikikomori chupacabra? living in Blood Pool Hell.\nOddly enough, she gets angry when called a chupacabra.
+MON_SONBITEN,Сон Битэн,A monkey youkai who leads wild monkeys.\nClaims to be a descendant of Sun Wukong, born from stone.
+MON_SONBITEN_SPINTOWIN,Сон Битэн,A monkey youkai who leads wild monkeys.\nSpin to win!
+MON_HISAMI,Хисами,A youkai who lures those nearing Hell into its depths.\nIt’s said she never lets anyone escape.\nIf you try to flee from her, expect relentless pursuit.
+MON_TSUKASA,Цукаса,A kudakitsune who sows discord by manipulating those around her.\nSometimes she’ll stop fighting to make a tempting offer.\nHer words may be sweet, but they always lead to ruin.
+MON_UBAME,Убаме, (в будущем будет описание)
+MON_CHIMI,Тими, (в будущем будет описание)
+MON_NAREKO,Нареко, (в будущем будет описание)
+MON_MIKE,Мике,A maneki-neko said to bring good luck, once living at Kotokuji.\nHowever, unlike others of her kind, she isn’t very skilled at attracting fortune.
+MON_TAKANE,Такане,A yamawaro, a river kappa mutant who moved onto land.\nMore polite than the average yamawaro, she serves as their leader.
+MON_SANNYO,Саннё,A youkai named Yamashiro who runs a gambling den.\nIt’s said she can manipulate minds using her cigarette smoke.
+MON_CLUMSY_STONE_TOWER,Stone Tower,A stone tower someone tried very hard to stack.\nBut it’s poorly made, awkwardly propped up with twigs and such.\nSomeone must’ve tried to copy a real tower but didn’t succeed.
+MON_FOG_FAIRY,Fog Fairy,A peculiar fairy that only lives at Misty Lake.\nShe holds a fog-spewing flower native to the lake and spreads mist around.\nFairies from Misty Lake seem unaffected and can still see clearly through it.\nPerhaps this mist is all their doing.
+MON_TSUCHINOKO,Tsuchinoko,A lucky, fat snake said to be rarely seen.\nIt can summon vines, and rumor has it there's a big bounty on its head.\nSome even say it's a delicacy when soaked in liquor.
+MON_VINE,Vine,Suddenly sprouted vines.\nThey entangle those who approach, slowing movement and hindering actions.
+MON_SECURITY_MAID_FIARY,Security Maid Fairy,A fairy working at Scarlet Devil Mansion, though not particularly useful.\nShe’s especially clueless, so the head maid gave her a megaphone.\nWhen an intruder appears, she shouts into it with all her might.\nSometimes she uses it just for fun, even without intruders.
+MON_GIANT_SLIME,Giant Slime,A summoned creature by Patchouli residing in the Scarlet Devil Mansion's library.\nFailed experiments from various spells, but sticks to dust well and is used as a vacuum cleaner.\nUnstable—if damaged, it splits into smaller slimes.
+MON_SMALL_SLIME,Small Slime,Fragments split off from the Giant Slime when it's damaged.\nThey can move independently for a short time, but shrink quickly due to instability.
+MON_HANIWA,Ханива,A clay lifeform created by the sculpting god Keiki Haniyasushin.\nShe gifts them to her believers—they're obedient servants that do everything well.\nSome devotees rely on them so much that roles get reversed.
+MON_HANIWA_SPEARMAN,Haniwa Spearman,A clay lifeform created by the sculpting god Keiki Haniyasushin.\nTrained harshly by their commander Mayumi, they’ve mastered spear techniques.\nThey strike fiercely at enemies from two tiles away.
+MON_HANIWA_ARCHER,Haniwa Archer,A clay lifeform created by the sculpting god Keiki Haniyasushin.\nTrained harshly by their commander Mayumi, they boast excellent archery skills.\nThey shoot at distant foes with high accuracy.
+MON_HANIWA_CAVALRY,Haniwa Cavalry,A clay lifeform created by the sculpting god Keiki Haniyasushin.\nTrained harshly by their commander Mayumi, they’re skilled horsemen.\nThey charge in faster than anyone and attack with swords.
+MON_WOLF_SPIRIT,Wolf Spirit,A member of the Keiga gang, one of the four beast-realm factions.\nExcels in hand-to-hand combat thanks to superior physical ability.\nVictims of their savage attacks may be overwhelmed by rabid frenzy.\nCould it be rabies?
+MON_EAGLE_SPIRIT,Eagle Spirit,A member of the Ganyoku Alliance, one of the four beast-realm factions.\nDominates aerial battles with size and arrogance.\nNormally acts freely, but now acts opportunistically amid the chaos underground.
+MON_OTTER_SPIRIT,Otter Spirit,A member of the Kiketsugyoku gang, one of the four beast-realm factions.\nExcels at ambushes and surprise attacks, despite a gentle appearance.\nSurprisingly, it's said to be the strongest among the beast spirits.
+MON_SECURIRY_DOOR,Security Bars,The security system of the Scarlet Devil Mansion has dropped iron bars to block passage.\nHowever, they seem softer than expected—maybe you could break through with force.
+MON_MISSLE,Ракера,Самонаводящаяся ракета, что преследует врагов.\nСоздаёт взрыв в радиусе 3х3.
+MON_HOMING,Homing Shot,A homing projectile that chases a target.\nFlies toward its locked-on enemy, but may disappear if it crashes into walls in tight spaces.
+MON_RABIT_GIANT,Giant Rabbit,A giant rabbit with a muscular physique.\nThrough consistent nutrition and training, it developed an impressive body.\nRumor has it that Eirin's suspicious protein drinks may have helped...
+MON_RABIT_ALCHEMIST,Rabbit Alchemist,A rabbit wearing a gas mask and loaded with potions.\nStudied pharmaceutical alchemy under Eirin and discovered its own talent.\nDue to its master’s influence, it now acts more like a mad scientist.
+MON_COGWHEEL,Cogwheel,A gear created through alchemy.\nMoves around and deals damage to enemies in all 8 surrounding directions.

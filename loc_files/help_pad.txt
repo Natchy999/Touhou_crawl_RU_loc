@@ -1,0 +1,18 @@
+﻿§b<Pad Key Bindings>§d
+§yD-Pad§d              - Двигаться
+§yLeft Stick + A§d     - Двигаться (Equivalent to keyboard keys yuhjklbn)
+§y↖↑↗    y k u§d
+§y←·→ <> h . l§d
+§y↙↓↘    b j n§d
+§yA§d                   - Поднять, использовать лестницу, помолиться на алтаре, подождать ход
+                         (Left action takes priority based on situation)
+§yHold A§d              - Подождать 100 ходов (Recover)
+§yB§d                   - Отмена
+§yHold B§d              - Изучить карту
+§yX§d                   - Быстрое меню 1 (по умолчанию: магия или бросок)
+§yHold X§d              - Быстрое меню 2 (по умолчанию: Divine Power or Activated Ability)
+§yY§d                   - Open right-side menu/item window
+§yHold Y§d              - Посмотреть переносимые предметы
+§yL1§d                  - Авто-атака
+§yL2§d                  - Авто-исследование
+§yL3, L4§d              - Приближение/отдаление (камеры)
